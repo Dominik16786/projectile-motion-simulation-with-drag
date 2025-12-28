@@ -42,8 +42,4 @@ $$
 ### Collision Handling
 When the projectile reaches the ground (`y < 0`), **linear interpolation** is used to set `y = 0` exactly.
 
----
-
-## Getting Started / Usage
-
 
